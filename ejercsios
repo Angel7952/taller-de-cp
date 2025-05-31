@@ -116,7 +116,7 @@ int main() {
 
 
 
-1. Encontrar el mínimo y máximo en una lista de números
+16 Encontrar el mínimo y máximo en una lista de números
 cpp
 Copiar
 Editar
@@ -150,7 +150,7 @@ int main() {
 
     return 0;
 }
-2. Calcular el promedio de una lista de números
+17 Calcular el promedio de una lista de números
 cpp
 Copiar
 Editar
@@ -178,7 +178,7 @@ int main() {
 
     return 0;
 }
-3. Contar cuántos números pares e impares hay en una lista
+18 Contar cuántos números pares e impares hay en una lista
 cpp
 Copiar
 Editar
@@ -204,7 +204,7 @@ int main() {
 
     return 0;
 }
-4. Ordenar una lista de números de menor a mayor (método burbuja)
+19 Ordenar una lista de números de menor a mayor (método burbuja)
 cpp
 Copiar
 Editar
@@ -240,7 +240,7 @@ int main() {
 
     return 0;
 }
-5. Verificar si una palabra es un palíndromo
+20 Verificar si una palabra es un palíndromo
 cpp
 Copiar
 Editar
@@ -273,7 +273,7 @@ int main() {
 
     return 0;
 }
-6. Convertir un número decimal a binario
+21 Convertir un número decimal a binario
 cpp
 Copiar
 Editar
@@ -307,7 +307,7 @@ int main() {
 
     return 0;
 }
-7. Generar un número aleatorio entre 1 y 100
+22 Generar un número aleatorio entre 1 y 100
 cpp
 Copiar
 Editar
@@ -324,7 +324,7 @@ int main() {
 
     return 0;
 }
-8. Calcular la suma de los números pares hasta N
+23 Calcular la suma de los números pares hasta N
 cpp
 Copiar
 Editar
@@ -344,7 +344,7 @@ int main() {
 
     return 0;
 }
-9. Hallar el MCD (Máximo Común Divisor) de dos números
+24 Hallar el MCD (Máximo Común Divisor) de dos números
 cpp
 Copiar
 Editar
@@ -367,7 +367,7 @@ int main() {
 
     return 0;
 }
-10. Hallar el MCM (Mínimo Común Múltiplo) de dos números
+25 Hallar el MCM (Mínimo Común Múltiplo) de dos números
 cpp
 Copiar
 Editar
@@ -396,7 +396,7 @@ int main() {
 
     return 0;
 }
-11. Simular el lanzamiento de un dado
+26 Simular el lanzamiento de un dado
 cpp
 Copiar
 Editar
@@ -413,7 +413,7 @@ int main() {
 
     return 0;
 }
-12. Contar la frecuencia de cada letra en una cadena
+27 Contar la frecuencia de cada letra en una cadena
 cpp
 Copiar
 Editar
@@ -442,7 +442,7 @@ int main() {
 
     return 0;
 }
-13. Encontrar el segundo número más grande en una lista
+28. Encontrar el segundo número más grande en una lista
 cpp
 Copiar
 Editar
@@ -481,7 +481,7 @@ int main() {
 
     return 0;
 }
-14. Rotar una lista a la derecha una posición
+29 Rotar una lista a la derecha una posición
 cpp
 Copiar
 Editar
@@ -590,7 +590,7 @@ int main() {
 
     return 0;
 }
-4. Ordenar una lista de números de menor a mayor (método burbuja)
+30 Ordenar una lista de números de menor a mayor (método burbuja)
 cpp
 Copiar
 Editar
@@ -659,7 +659,7 @@ int main() {
 
     return 0;
 }
-6. Convertir un número decimal a binario
+31 Convertir un número decimal a binario
 cpp
 Copiar
 Editar
@@ -692,8 +692,7 @@ int main() {
     cout << endl;
 
     return 0;
-}
-7. Generar un número aleatorio entre 1 y 100
+}32. Generar un número aleatorio entre 1 y 100
 cpp
 Copiar
 Editar
@@ -710,7 +709,7 @@ int main() {
 
     return 0;
 }
-8. Calcular la suma de los números pares hasta N
+33 Calcular la suma de los números pares hasta N
 cpp
 Copiar
 Editar
@@ -730,7 +729,7 @@ int main() {
 
     return 0;
 }
-9. Hallar el MCD (Máximo Común Divisor) de dos números
+34 Hallar el MCD (Máximo Común Divisor) de dos números
 cpp
 Copiar
 Editar
@@ -753,7 +752,7 @@ int main() {
 
     return 0;
 }
-10. Hallar el MCM (Mínimo Común Múltiplo) de dos números
+35 Hallar el MCM (Mínimo Común Múltiplo) de dos números
 cpp
 Copiar
 Editar
@@ -782,7 +781,7 @@ int main() {
 
     return 0;
 }
-11. Simular el lanzamiento de un dado
+36 Simular el lanzamiento de un dado
 cpp
 Copiar
 Editar
@@ -799,7 +798,7 @@ int main() {
 
     return 0;
 }
-12. Contar la frecuencia de cada letra en una cadena
+37 Contar la frecuencia de cada letra en una cadena
 cpp
 Copiar
 Editar
@@ -828,7 +827,7 @@ int main() {
 
     return 0;
 }
-13. Encontrar el segundo número más grande en una lista
+38 Encontrar el segundo número más grande en una lista
 cpp
 Copiar
 Editar
@@ -867,7 +866,7 @@ int main() {
 
     return 0;
 }
-14. Rotar una lista a la derecha una posición
+39 Rotar una lista a la derecha una posición
 cpp
 Copiar
 Editar
@@ -915,7 +914,7 @@ int main() {
 
     return 0;
 }
-4. Ordenar una lista de números de menor a mayor (método burbuja)
+40. Ordenar una lista de números de menor a mayor (método burbuja)
 cpp
 Copiar
 Editar
@@ -951,7 +950,7 @@ int main() {
 
     return 0;
 }
-5. Verificar si una palabra es un palíndromo
+41. Verificar si una palabra es un palíndromo
 cpp
 Copiar
 Editar
@@ -984,7 +983,7 @@ int main() {
 
     return 0;
 }
-6. Convertir un número decimal a binario
+42 Convertir un número decimal a binario
 cpp
 Copiar
 Editar
@@ -1018,7 +1017,7 @@ int main() {
 
     return 0;
 }
-7. Generar un número aleatorio entre 1 y 100
+43. Generar un número aleatorio entre 1 y 100
 cpp
 Copiar
 Editar
@@ -1035,7 +1034,7 @@ int main() {
 
     return 0;
 }
-8. Calcular la suma de los números pares hasta N
+48 Calcular la suma de los números pares hasta N
 cpp
 Copiar
 Editar
@@ -1055,7 +1054,7 @@ int main() {
 
     return 0;
 }
-9. Hallar el MCD (Máximo Común Divisor) de dos números
+49. Hallar el MCD (Máximo Común Divisor) de dos números
 cpp
 Copiar
 Editar
@@ -1078,7 +1077,7 @@ int main() {
 
     return 0;
 }
-10. Hallar el MCM (Mínimo Común Múltiplo) de dos números
+50. Hallar el MCM (Mínimo Común Múltiplo) de dos números
 cpp
 Copiar
 Editar
@@ -1107,7 +1106,7 @@ int main() {
 
     return 0;
 }
-11. Simular el lanzamiento de un dado
+51. Simular el lanzamiento de un dado
 cpp
 Copiar
 Editar
@@ -1153,7 +1152,7 @@ int main() {
 
     return 0;
 }
-13. Encontrar el segundo número más grande en una lista
+52. Encontrar el segundo número más grande en una lista
 cpp
 Copiar
 Editar
@@ -1192,7 +1191,7 @@ int main() {
 
     return 0;
 }
-14. Rotar una lista a la derecha una posición
+53. Rotar una lista a la derecha una posición
 cpp
 Copiar
 Editar
@@ -1222,6 +1221,331 @@ int main() {
 
 
 
+
+54
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n, num;
+    int pares = 0, impares = 0;
+
+    cout << "¿Cuántos números quieres ingresar? ";
+    cin >> n;
+
+    for (int i = 1; i <= n; i++) {
+        cout << "Ingresa el número " << i << ": ";
+        cin >> num;
+        if (num % 2 == 0) pares++;
+        else impares++;
+    }
+
+    cout << "Cantidad de números pares: " << pares << endl;
+    cout << "Cantidad de números impares: " << impares << endl;
+
+    return 0;
+}
+55. Ordenar una lista de números de menor a mayor (método burbuja)
+cpp
+Copiar
+Editar
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+    cout << "¿Cuántos números quieres ingresar? ";
+    cin >> n;
+
+    int arr[100];  // Suponemos máximo 100 números para simplicidad
+
+    for (int i = 0; i < n; i++) {
+        cout << "Ingresa el número " << i + 1 << ": ";
+        cin >> arr[i];
+    }
+
+    // Método burbuja
+    for (int i = 0; i < n - 1; i++) {
+        for (int j = 0; j < n - i - 1; j++) {
+            if (arr[j] > arr[j + 1]) {
+                int temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+            }
+        }
+    }
+
+    cout << "Lista ordenada: ";
+    for (int i = 0; i < n; i++) cout << arr[i] << " ";
+    cout << endl;
+
+    return 0;
+}
+56. Verificar si una palabra es un palíndromo
+cpp
+Copiar
+Editar
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    string palabra;
+    cout << "Ingresa una palabra: ";
+    cin >> palabra;
+
+    int inicio = 0;
+    int fin = palabra.length() - 1;
+    bool esPalindromo = true;
+
+    while (inicio < fin) {
+        if (palabra[inicio] != palabra[fin]) {
+            esPalindromo = false;
+            break;
+        }
+        inicio++;
+        fin--;
+    }
+
+    if (esPalindromo)
+        cout << palabra << " es un palíndromo." << endl;
+    else
+        cout << palabra << " no es un palíndromo." << endl;
+
+    return 0;
+}
+57. Convertir un número decimal a binario
+cpp
+Copiar
+Editar
+#include <iostream>
+using namespace std;
+
+int main() {
+    int numero;
+    cout << "Ingresa un número decimal: ";
+    cin >> numero;
+
+    if (numero == 0) {
+        cout << "Binario: 0" << endl;
+        return 0;
+    }
+
+    int binario[32];
+    int i = 0;
+
+    while (numero > 0) {
+        binario[i] = numero % 2;
+        numero /= 2;
+        i++;
+    }
+
+    cout << "Binario: ";
+    for (int j = i - 1; j >= 0; j--) {
+        cout << binario[j];
+    }
+    cout << endl;
+
+    return 0;
+}
+58. Generar un número aleatorio entre 1 y 100
+cpp
+Copiar
+Editar
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+using namespace std;
+
+int main() {
+    srand(time(0));  // Semilla aleatoria basada en el tiempo actual
+
+    int aleatorio = rand() % 100 + 1;  // Número entre 1 y 100
+    cout << "Número aleatorio entre 1 y 100: " << aleatorio << endl;
+
+    return 0;
+}
+59. Calcular la suma de los números pares hasta N
+cpp
+Copiar
+Editar
+#include <iostream>
+using namespace std;
+
+int main() {
+    int N, suma = 0;
+    cout << "Ingresa un número entero positivo N: ";
+    cin >> N;
+
+    for (int i = 2; i <= N; i += 2) {
+        suma += i;
+    }
+
+    cout << "La suma de los números pares hasta " << N << " es: " << suma << endl;
+
+    return 0;
+}
+60. Hallar el MCD (Máximo Común Divisor) de dos números
+cpp
+Copiar
+Editar
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a, b;
+    cout << "Ingresa dos números enteros: ";
+    cin >> a >> b;
+
+    // Algoritmo de Euclides
+    while (b != 0) {
+        int temp = b;
+        b = a % b;
+        a = temp;
+    }
+
+    cout << "El MCD es: " << a << endl;
+
+    return 0;
+}
+61. Hallar el MCM (Mínimo Común Múltiplo) de dos números
+cpp
+Copiar
+Editar
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a, b, mcd, mcm;
+    cout << "Ingresa dos números enteros: ";
+    cin >> a >> b;
+
+    int x = a, y = b;
+
+    // Calcular MCD con Euclides
+    while (b != 0) {
+        int temp = b;
+        b = a % b;
+        a = temp;
+    }
+    mcd = a;
+
+    // Calcular MCM usando la relación: mcm = (x * y) / mcd
+    mcm = (x * y) / mcd;
+
+    cout << "El MCM es: " << mcm << endl;
+
+    return 0;
+}
+62. Simular el lanzamiento de un dado
+cpp
+Copiar
+Editar
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+using namespace std;
+
+int main() {
+    srand(time(0));
+
+    int dado = rand() % 6 + 1;  // Número entre 1 y 6
+    cout << "Lanzamiento del dado: " << dado << endl;
+
+    return 0;
+}
+12. Contar la frecuencia de cada letra en una cadena
+cpp
+Copiar
+Editar
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+    string texto;
+    int frecuencia[26] = {0};
+
+    cout << "Ingresa una cadena de texto (solo letras): ";
+    getline(cin, texto);
+
+    for (char c : texto) {
+        if (c >= 'A' && c <= 'Z') c = c - 'A' + 'a';  // Convertir mayúsculas a minúsculas
+        if (c >= 'a' && c <= 'z') {
+            frecuencia[c - 'a']++;
+        }
+    }
+
+    for (int i = 0; i < 26; i++) {
+        if (frecuencia[i] > 0)
+            cout << char(i + 'a') << ": " << frecuencia[i] << endl;
+    }
+
+    return 0;
+}
+63. Encontrar el segundo número más grande en una lista
+cpp
+Copiar
+Editar
+#include <iostream>
+#include <climits>
+using namespace std;
+
+int main() {
+    int n;
+    cout << "¿Cuántos números quieres ingresar? ";
+    cin >> n;
+
+    if (n < 2) {
+        cout << "Necesitas ingresar al menos dos números." << endl;
+        return 1;
+    }
+
+    int max1 = INT_MIN, max2 = INT_MIN, num;
+
+    for (int i = 0; i < n; i++) {
+        cout << "Número " << i + 1 << ": ";
+        cin >> num;
+
+        if (num > max1) {
+            max2 = max1;
+            max1 = num;
+        } else if (num > max2 && num != max1) {
+            max2 = num;
+        }
+    }
+
+    if (max2 == INT_MIN)
+        cout << "No hay segundo número más grande distinto." << endl;
+    else
+        cout << "El segundo número más grande es: " << max2 << endl;
+
+    return 0;
+}
+64. Rotar una lista a la derecha una posición
+cpp
+Copiar
+Editar
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+    cout << "¿Cuántos números quieres ingresar? ";
+    cin >> n;
+
+    int arr[100];
+    for (int i = 0; i < n; i++) {
+        cout << "Número " << i + 1 << ": ";
+        cin >> arr[i];
+    }
+
+    if (n > 1) {
+        int ultimo = arr[n - 1];
+        for (int i = n - 1; i > 0; i--) {
+            arr[i] = arr[i - 1];
+        }
+        arr[0] = ultimo;
 
 
 #include <iostream>
@@ -1246,7 +1570,7 @@ int main() {
 
     return 0;
 }
-4. Ordenar una lista de números de menor a mayor (método burbuja)
+65. Ordenar una lista de números de menor a mayor (método burbuja)
 cpp
 Copiar
 Editar
@@ -1282,7 +1606,7 @@ int main() {
 
     return 0;
 }
-5. Verificar si una palabra es un palíndromo
+66. Verificar si una palabra es un palíndromo
 cpp
 Copiar
 Editar
@@ -1315,7 +1639,7 @@ int main() {
 
     return 0;
 }
-6. Convertir un número decimal a binario
+68. Convertir un número decimal a binario
 cpp
 Copiar
 Editar
@@ -1349,7 +1673,7 @@ int main() {
 
     return 0;
 }
-7. Generar un número aleatorio entre 1 y 100
+69. Generar un número aleatorio entre 1 y 100
 cpp
 Copiar
 Editar
@@ -1366,7 +1690,7 @@ int main() {
 
     return 0;
 }
-8. Calcular la suma de los números pares hasta N
+70. Calcular la suma de los números pares hasta N
 cpp
 Copiar
 Editar
@@ -1386,7 +1710,7 @@ int main() {
 
     return 0;
 }
-9. Hallar el MCD (Máximo Común Divisor) de dos números
+71. Hallar el MCD (Máximo Común Divisor) de dos números
 cpp
 Copiar
 Editar
@@ -1409,7 +1733,7 @@ int main() {
 
     return 0;
 }
-10. Hallar el MCM (Mínimo Común Múltiplo) de dos números
+72. Hallar el MCM (Mínimo Común Múltiplo) de dos números
 cpp
 Copiar
 Editar
@@ -1438,7 +1762,7 @@ int main() {
 
     return 0;
 }
-11. Simular el lanzamiento de un dado
+73. Simular el lanzamiento de un dado
 cpp
 Copiar
 Editar
@@ -1455,7 +1779,7 @@ int main() {
 
     return 0;
 }
-12. Contar la frecuencia de cada letra en una cadena
+74. Contar la frecuencia de cada letra en una cadena
 cpp
 Copiar
 Editar
@@ -1484,7 +1808,7 @@ int main() {
 
     return 0;
 }
-13. Encontrar el segundo número más grande en una lista
+75. Encontrar el segundo número más grande en una lista
 cpp
 Copiar
 Editar
@@ -1523,7 +1847,7 @@ int main() {
 
     return 0;
 }
-14. Rotar una lista a la derecha una posición
+76. Rotar una lista a la derecha una posición
 cpp
 Copiar
 Editar
@@ -1549,29 +1873,33 @@ int main() {
         arr[0] = ultimo;
 
 
+
+77. Generar ternas pitagóricas
+cpp
+Copiar
+Editar
 #include <iostream>
 using namespace std;
 
 int main() {
-    int n, num;
-    int pares = 0, impares = 0;
+    int limite;
+    cout << "Ingrese el límite superior para los valores: ";
+    cin >> limite;
 
-    cout << "¿Cuántos números quieres ingresar? ";
-    cin >> n;
-
-    for (int i = 1; i <= n; i++) {
-        cout << "Ingresa el número " << i << ": ";
-        cin >> num;
-        if (num % 2 == 0) pares++;
-        else impares++;
+    cout << "Ternas pitagóricas hasta " << limite << ":\n";
+    for (int a = 1; a <= limite; a++) {
+        for (int b = a; b <= limite; b++) {
+            for (int c = b; c <= limite; c++) {
+                if (a * a + b * b == c * c) {
+                    cout << "(" << a << ", " << b << ", " << c << ")\n";
+                }
+            }
+        }
     }
-
-    cout << "Cantidad de números pares: " << pares << endl;
-    cout << "Cantidad de números impares: " << impares << endl;
 
     return 0;
 }
-4. Ordenar una lista de números de menor a mayor (método burbuja)
+78. Calcular el producto escalar de dos vectores
 cpp
 Copiar
 Editar
@@ -1580,67 +1908,23 @@ using namespace std;
 
 int main() {
     int n;
-    cout << "¿Cuántos números quieres ingresar? ";
+    cout << "Ingrese el tamaño de los vectores: ";
     cin >> n;
 
-    int arr[100];  // Suponemos máximo 100 números para simplicidad
+    int v1[100], v2[100];
+    cout << "Ingrese los elementos del primer vector:\n";
+    for (int i = 0; i < n; i++) cin >> v1[i];
 
-    for (int i = 0; i < n; i++) {
-        cout << "Ingresa el número " << i + 1 << ": ";
-        cin >> arr[i];
-    }
+    cout << "Ingrese los elementos del segundo vector:\n";
+    for (int i = 0; i < n; i++) cin >> v2[i];
 
-    // Método burbuja
-    for (int i = 0; i < n - 1; i++) {
-        for (int j = 0; j < n - i - 1; j++) {
-            if (arr[j] > arr[j + 1]) {
-                int temp = arr[j];
-                arr[j] = arr[j + 1];
-                arr[j + 1] = temp;
-            }
-        }
-    }
+    int producto = 0;
+    for (int i = 0; i < n; i++) producto += v1[i] * v2[i];
 
-    cout << "Lista ordenada: ";
-    for (int i = 0; i < n; i++) cout << arr[i] << " ";
-    cout << endl;
-
+    cout << "Producto escalar: " << producto << endl;
     return 0;
 }
-5. Verificar si una palabra es un palíndromo
-cpp
-Copiar
-Editar
-#include <iostream>
-#include <string>
-using namespace std;
-
-int main() {
-    string palabra;
-    cout << "Ingresa una palabra: ";
-    cin >> palabra;
-
-    int inicio = 0;
-    int fin = palabra.length() - 1;
-    bool esPalindromo = true;
-
-    while (inicio < fin) {
-        if (palabra[inicio] != palabra[fin]) {
-            esPalindromo = false;
-            break;
-        }
-        inicio++;
-        fin--;
-    }
-
-    if (esPalindromo)
-        cout << palabra << " es un palíndromo." << endl;
-    else
-        cout << palabra << " no es un palíndromo." << endl;
-
-    return 0;
-}
-6. Convertir un número decimal a binario
+80. Sumar números consecutivos en una lista
 cpp
 Copiar
 Editar
@@ -1648,50 +1932,35 @@ Editar
 using namespace std;
 
 int main() {
-    int numero;
-    cout << "Ingresa un número decimal: ";
-    cin >> numero;
+    int n, suma = 0;
+    cout << "¿Cuántos números consecutivos quieres sumar? ";
+    cin >> n;
 
-    if (numero == 0) {
-        cout << "Binario: 0" << endl;
-        return 0;
-    }
+    for (int i = 1; i <= n; i++) suma += i;
 
-    int binario[32];
-    int i = 0;
-
-    while (numero > 0) {
-        binario[i] = numero % 2;
-        numero /= 2;
-        i++;
-    }
-
-    cout << "Binario: ";
-    for (int j = i - 1; j >= 0; j--) {
-        cout << binario[j];
-    }
-    cout << endl;
-
+    cout << "La suma de los primeros " << n << " números es: " << suma << endl;
     return 0;
 }
-7. Generar un número aleatorio entre 1 y 100
+81. Encontrar el menor número divisible por un valor dado
 cpp
 Copiar
 Editar
 #include <iostream>
-#include <cstdlib>
-#include <ctime>
 using namespace std;
 
 int main() {
-    srand(time(0));  // Semilla aleatoria basada en el tiempo actual
+    int inicio, valor;
+    cout << "Ingrese el número inicial: ";
+    cin >> inicio;
+    cout << "Ingrese el valor divisor: ";
+    cin >> valor;
 
-    int aleatorio = rand() % 100 + 1;  // Número entre 1 y 100
-    cout << "Número aleatorio entre 1 y 100: " << aleatorio << endl;
+    while (inicio % valor != 0) inicio++;
 
+    cout << "El menor número divisible por " << valor << " es: " << inicio << endl;
     return 0;
 }
-8. Calcular la suma de los números pares hasta N
+82 Suma de cuadrados de los primeros N números naturales
 cpp
 Copiar
 Editar
@@ -1700,18 +1969,17 @@ using namespace std;
 
 int main() {
     int N, suma = 0;
-    cout << "Ingresa un número entero positivo N: ";
+    cout << "Ingrese un número N: ";
     cin >> N;
 
-    for (int i = 2; i <= N; i += 2) {
-        suma += i;
+    for (int i = 1; i <= N; i++) {
+        suma += i * i;
     }
 
-    cout << "La suma de los números pares hasta " << N << " es: " << suma << endl;
-
+    cout << "Suma de cuadrados de los primeros " << N << " números: " << suma << endl;
     return 0;
 }
-9. Hallar el MCD (Máximo Común Divisor) de dos números
+83. Suma de cuadrados de los números impares hasta N
 cpp
 Copiar
 Editar
@@ -1719,22 +1987,18 @@ Editar
 using namespace std;
 
 int main() {
-    int a, b;
-    cout << "Ingresa dos números enteros: ";
-    cin >> a >> b;
+    int N, suma = 0;
+    cout << "Ingrese un número N: ";
+    cin >> N;
 
-    // Algoritmo de Euclides
-    while (b != 0) {
-        int temp = b;
-        b = a % b;
-        a = temp;
+    for (int i = 1; i <= N; i += 2) {
+        suma += i * i;
     }
 
-    cout << "El MCD es: " << a << endl;
-
+    cout << "Suma de cuadrados de impares hasta " << N << ": " << suma << endl;
     return 0;
 }
-10. Hallar el MCM (Mínimo Común Múltiplo) de dos números
+84. Invertir los dígitos de un número
 cpp
 Copiar
 Editar
@@ -1742,113 +2006,62 @@ Editar
 using namespace std;
 
 int main() {
-    int a, b, mcd, mcm;
-    cout << "Ingresa dos números enteros: ";
-    cin >> a >> b;
+    int num, invertido = 0;
+    cout << "Ingrese un número: ";
+    cin >> num;
 
-    int x = a, y = b;
-
-    // Calcular MCD con Euclides
-    while (b != 0) {
-        int temp = b;
-        b = a % b;
-        a = temp;
+    while (num != 0) {
+        invertido = invertido * 10 + (num % 10);
+        num /= 10;
     }
-    mcd = a;
 
-    // Calcular MCM usando la relación: mcm = (x * y) / mcd
-    mcm = (x * y) / mcd;
-
-    cout << "El MCM es: " << mcm << endl;
-
+    cout << "Número invertido: " << invertido << endl;
     return 0;
 }
-11. Simular el lanzamiento de un dado
+85. Verificar si un carácter es un dígito
 cpp
 Copiar
 Editar
 #include <iostream>
-#include <cstdlib>
-#include <ctime>
 using namespace std;
 
 int main() {
-    srand(time(0));
+    char c;
+    cout << "Ingrese un carácter: ";
+    cin >> c;
 
-    int dado = rand() % 6 + 1;  // Número entre 1 y 6
-    cout << "Lanzamiento del dado: " << dado << endl;
+    if (c >= '0' && c <= '9') {
+        cout << "Es un dígito." << endl;
+    } else {
+        cout << "No es un dígito." << endl;
+    }
 
     return 0;
 }
-12. Contar la frecuencia de cada letra en una cadena
+86. Contar el número de dígitos en un número
 cpp
 Copiar
 Editar
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main() {
-    string texto;
-    int frecuencia[26] = {0};
+    int num, contador = 0;
+    cout << "Ingrese un número: ";
+    cin >> num;
 
-    cout << "Ingresa una cadena de texto (solo letras): ";
-    getline(cin, texto);
-
-    for (char c : texto) {
-        if (c >= 'A' && c <= 'Z') c = c - 'A' + 'a';  // Convertir mayúsculas a minúsculas
-        if (c >= 'a' && c <= 'z') {
-            frecuencia[c - 'a']++;
+    if (num == 0) contador = 1;
+    else {
+        while (num != 0) {
+            num /= 10;
+            contador++;
         }
     }
 
-    for (int i = 0; i < 26; i++) {
-        if (frecuencia[i] > 0)
-            cout << char(i + 'a') << ": " << frecuencia[i] << endl;
-    }
-
+    cout << "Cantidad de dígitos: " << contador << endl;
     return 0;
 }
-13. Encontrar el segundo número más grande en una lista
-cpp
-Copiar
-Editar
-#include <iostream>
-#include <climits>
-using namespace std;
-
-int main() {
-    int n;
-    cout << "¿Cuántos números quieres ingresar? ";
-    cin >> n;
-
-    if (n < 2) {
-        cout << "Necesitas ingresar al menos dos números." << endl;
-        return 1;
-    }
-
-    int max1 = INT_MIN, max2 = INT_MIN, num;
-
-    for (int i = 0; i < n; i++) {
-        cout << "Número " << i + 1 << ": ";
-        cin >> num;
-
-        if (num > max1) {
-            max2 = max1;
-            max1 = num;
-        } else if (num > max2 && num != max1) {
-            max2 = num;
-        }
-    }
-
-    if (max2 == INT_MIN)
-        cout << "No hay segundo número más grande distinto." << endl;
-    else
-        cout << "El segundo número más grande es: " << max2 << endl;
-
-    return 0;
-}
-14. Rotar una lista a la derecha una posición
+87. Obtener el primer dígito de un número
 cpp
 Copiar
 Editar
@@ -1856,22 +2069,17 @@ Editar
 using namespace std;
 
 int main() {
-    int n;
-    cout << "¿Cuántos números quieres ingresar? ";
-    cin >> n;
+    int num;
+    cout << "Ingrese un número: ";
+    cin >> num;
 
-    int arr[100];
-    for (int i = 0; i < n; i++) {
-        cout << "Número " << i + 1 << ": ";
-        cin >> arr[i];
+    while (num >= 10) {
+        num /= 10;
     }
 
-    if (n > 1) {
-        int ultimo = arr[n - 1];
-        for (int i = n - 1; i > 0; i--) {
-            arr[i] = arr[i - 1];
-        }
-        arr[0] = ultimo;
+    cout << "Primer dígito: " << num << endl;
+    return 0;
+}
 
 
 
